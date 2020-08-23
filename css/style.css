@@ -49,11 +49,7 @@ table {
 /****************/
 /**** Base Styles ****/
 /****************/
-.wrapon{
-    width: 1120px;
-    height: 100%;
-    margin: 0 auto;
-}
+
 body {
     line-height: 1.4;
     font-family: 'Poppins', sans-serif;
